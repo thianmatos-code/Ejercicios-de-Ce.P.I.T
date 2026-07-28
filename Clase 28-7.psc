@@ -1,6 +1,5 @@
 Algoritmo sin_titulo
-	Definir numeroNuevo Como Entero
-	
-	numeroNuevo = 8
-	Escribir 'El numeroNuevo es ', numeroNuevo
+	Escribir "Hola"
+	Definir nV Como Entero
+	Escribir 'El valor que ingresaste es ', nV
 FinAlgoritmo
