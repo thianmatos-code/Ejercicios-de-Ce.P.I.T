@@ -1,6 +1,6 @@
 Algoritmo Array_Vector
 	
-	Dimensionar valoresNumericos[10]
+	Dimensionar vectorNumeros[10]
 	
 	Para contador <- 1 Hasta 10  Con Paso 1 Hacer
 		Escribir "Ingrese el valor: "
